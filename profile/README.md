@@ -2,7 +2,7 @@
 
 
 
-### Somos uma empresa apaixonada e dedicada a criar um site único e emocionante para atender às necessidades do público otaku em todo lugar.
+<h3 align="center">Somos uma empresa apaixonada e dedicada a criar um site único e emocionante para atender às necessidades do público otaku em todo lugar.</h3>
 
 <br>
 <div align="center">
