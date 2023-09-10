@@ -19,7 +19,7 @@
 Na AnimeMach, acreditamos que a verdadeira magia do universo otaku está na imersão total. Nosso site foi desenvolvido para proporcionar a você uma jornada imersiva, onde você poderá explorar os seus animes e mangás favoritos como nunca antes. Desde o design até a funcionalidade, cada elemento foi projetado para despertar a sua paixão otaku.
 <br><br>
 <h3>Biblioteca Abundante:</h3>
-Uma vasta biblioteca de animes, mangás, light novels e muito mais está à sua disposição na AnimeMach. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
+Uma vasta biblioteca de animes, mangás e muito mais está à sua disposição na AnimeMach. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
 <br><br>
 <h3>Comunidade Engajada:</h3>
 Sabemos que a verdadeira essência do mundo otaku está na comunidade. Por isso, criamos espaços interativos onde você pode se conectar com outros fãs, compartilhar suas opiniões, participar de discussões e até mesmo criar o seu próprio conteúdo. AnimeMach é mais do que um site; é uma comunidade apaixonada de otakus.
