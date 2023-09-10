@@ -22,7 +22,7 @@ Na AnimeMach, acreditamos que a verdadeira magia do universo otaku está na imer
 Uma vasta biblioteca de animes, mangás e muito mais está à sua disposição na AnimeMach. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
 <br><br>
 <h3>Comunidade Engajada:</h3>
-Sabemos que a verdadeira essência do mundo otaku está na comunidade. Por isso, criamos espaços interativos onde você pode se conectar com outros fãs, compartilhar suas opiniões, participar de discussões e até mesmo criar o seu próprio conteúdo. AnimeMach é mais do que um site; é uma comunidade apaixonada de otakus.
+Sabemos que a verdadeira essência do mundo otaku está na comunidade. Por isso, criamos espaços interativos onde você pode se conectar com outros fãs, compartilhar suas opiniões e participar de discussões. AnimeMach é mais do que um site; é uma comunidade apaixonada de otakus.
 <br><br>
 <h3>Recursos Inovadores:</h3>
 Estamos constantemente buscando maneiras de elevar a sua experiência otaku. Com recursos inovadores, como recomendações personalizadas, análises detalhadas, e até mesmo a possibilidade de criar e compartilhar listas de reprodução personalizadas, queremos garantir que você encontre exatamente o que procura e muito mais.
