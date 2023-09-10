@@ -34,7 +34,7 @@ A qualidade é o nosso mantra. Trabalhamos incansavelmente para garantir que cad
 
 <br><br>
 
-**"Junte-se a nós nesta jornada emocionante para explorar o vasto e maravilhoso mundo do anime e do mangá. Na AnimeMach, não estamos apenas construindo um site; estamos construindo uma casa virtual para todos os amantes de anime e manga, onde você é o protagonista da sua própria história."**
+**"Junte-se a nós nesta jornada emocionante para explorar o vasto e maravilhoso mundo dos anime e mangás. Na AnimeMach, não estamos apenas construindo um site, mas sim uma casa virtual para todos os amantes de animes e mangás, onde você é o protagonista da sua própria história."**
 
 <br><br>
 
