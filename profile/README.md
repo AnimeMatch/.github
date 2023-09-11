@@ -16,7 +16,7 @@
 <div>
 
 <h3>Experiência Otaku Imersiva:</h3>
-Na AnimeMach, acreditamos que a verdadeira magia do universo otaku está na imersão total. Nosso site foi desenvolvido para proporcionar a você uma jornada imersiva, onde você poderá explorar os seus animes e mangás favoritos como nunca antes. Desde o design até a funcionalidade, cada elemento foi projetado para despertar a sua paixão otaku.
+Na AnimeMatch, acreditamos que a verdadeira magia do universo otaku está na imersão total. Nosso site foi desenvolvido para proporcionar a você uma jornada imersiva, onde você poderá explorar os seus animes e mangás favoritos como nunca antes. Desde o design até a funcionalidade, cada elemento foi projetado para despertar a sua paixão otaku.
 <br><br>
 <h3>Biblioteca Abundante:</h3>
 Uma vasta biblioteca de animes, mangás e muito mais está à sua disposição na AnimeMatch. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
