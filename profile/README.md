@@ -41,7 +41,7 @@ A qualidade é o nosso mantra. Trabalhamos incansavelmente para garantir que cad
 # Membros
 [Alexander Kimura](https://github.com/AlexanderKimura)
 <br>
-Andres
+[Andres Oliveira](https://github.com/orgs/AnimeMatch/people/AndresPOliveira)
 <br>
 [Leonardo Cardoso](https://github.com/LeonardoCardosoDev)
 <br>
