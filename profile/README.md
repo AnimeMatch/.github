@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao mundo da AnimeMach</h1>
+<h1 align="center">Bem-vindo ao mundo da AnimeMatch</h1>
 
 
 
@@ -19,10 +19,10 @@
 Na AnimeMach, acreditamos que a verdadeira magia do universo otaku está na imersão total. Nosso site foi desenvolvido para proporcionar a você uma jornada imersiva, onde você poderá explorar os seus animes e mangás favoritos como nunca antes. Desde o design até a funcionalidade, cada elemento foi projetado para despertar a sua paixão otaku.
 <br><br>
 <h3>Biblioteca Abundante:</h3>
-Uma vasta biblioteca de animes, mangás e muito mais está à sua disposição na AnimeMach. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
+Uma vasta biblioteca de animes, mangás e muito mais está à sua disposição na AnimeMatch. Quer você esteja em busca de clássicos consagrados ou das últimas novidades, temos tudo o que você precisa para alimentar a sua sede por histórias emocionantes e personagens cativantes.
 <br><br>
 <h3>Comunidade Engajada:</h3>
-Sabemos que a verdadeira essência do mundo otaku está na comunidade. Por isso, criamos espaços interativos onde você pode se conectar com outros fãs, compartilhar suas opiniões e participar de discussões. AnimeMach é mais do que um site; é uma comunidade apaixonada de otakus.
+Sabemos que a verdadeira essência do mundo otaku está na comunidade. Por isso, criamos espaços interativos onde você pode se conectar com outros fãs, compartilhar suas opiniões e participar de discussões. AnimeMatch é mais do que um site; é uma comunidade apaixonada de otakus.
 <br><br>
 <h3>Recursos Inovadores:</h3>
 Estamos constantemente buscando maneiras de elevar a sua experiência otaku. Com recursos inovadores, como recomendações personalizadas, análises detalhadas, e até mesmo a possibilidade de criar e compartilhar listas de reprodução personalizadas, queremos garantir que você encontre exatamente o que procura e muito mais.
@@ -34,7 +34,7 @@ A qualidade é o nosso mantra. Trabalhamos incansavelmente para garantir que cad
 
 <br><br>
 
-**"Junte-se a nós nesta jornada emocionante para explorar o vasto e maravilhoso mundo dos anime e mangás. Na AnimeMach, não estamos apenas construindo um site, mas sim uma casa virtual para todos os amantes de animes e mangás, onde você é o protagonista da sua própria história."**
+**"Junte-se a nós nesta jornada emocionante para explorar o vasto e maravilhoso mundo dos anime e mangás. Na AnimeMatch, não estamos apenas construindo um site, mas sim uma casa virtual para todos os amantes de animes e mangás, onde você é o protagonista da sua própria história."**
 
 <br><br>
 
